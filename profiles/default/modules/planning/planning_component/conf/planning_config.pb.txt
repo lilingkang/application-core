@@ -18,13 +18,3 @@ learning_mode: NO_LEARNING
 reference_line_config {
   pnc_map_class: "apollo::planning::LaneFollowMap"
 }
-planner_public_road_config {
-  scenario {
-    name: "VALET_PARKING"
-    type: "ValetParkingScenario"
-  }
-  scenario {
-    name: "LANE_FOLLOW"
-    type: "LaneFollowScenario"
-  }
-}
