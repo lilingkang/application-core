@@ -1,0 +1,1 @@
+/opt/apollo/neo/share/modules/planning/tasks/rule_based_stop_decider/conf/default_conf.pb.txt
